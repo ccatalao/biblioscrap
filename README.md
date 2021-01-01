@@ -1,5 +1,5 @@
 # biblioscrap
-## Aplicação de Web Scraping eem XML.
+## Aplicação de Web Scraping em XML/UniMarc
 
 Captura de Registos Bibliográficos XML/UniMarc da Biblioteca Nacional de Portugal.
 
