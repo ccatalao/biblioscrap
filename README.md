@@ -1,7 +1,7 @@
 # biblioscrap
-Web scraping catálogo bibliografico XML/UniMarc
 
-Captura de Registos Bibliográficos da Biblioteca Nacional de Portugal
+Captura de Registos Bibliográficos XML/UniMarc da Biblioteca Nacional de Portugal.
+
 Aplicação de Web Scraping em Open Data.
 
 Os ficheiros fonte foram obtidos no repositório nacional OpenData, disponibilizados pela Biblioteca NacionaL de Portugal, em formato MarcXchange XML, em https://opendata.bnportugal.gov.pt/downloads.htm
