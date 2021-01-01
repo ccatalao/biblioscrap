@@ -13,6 +13,7 @@ As regras UNIMARC seguem a versão 3, do Catálogo Bibliográfico Abreviado, de 
 Os resultados são guardados em ficheiros JSON e CSV.
 
 Carlos Catalão Alves
+
 Lisboa, Janeiro 2021
 
 Copyright MIT
