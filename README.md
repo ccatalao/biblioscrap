@@ -2,7 +2,8 @@
 Web scraping catálogo bibliografico XML/UniMarc
 
 Captura de Registos Bibliográficos da Biblioteca Nacional de Portugal
-Aplicação de Web Scraping em Open Data
+Aplicação de Web Scraping em Open Data.
+
 Os ficheiros fonte foram obtidos no repositório nacional OpenData, disponibilizados pela Biblioteca NacionaL de Portugal, em formato MarcXchange XML, em https://opendata.bnportugal.gov.pt/downloads.htm
 
 Apliquei a livraria de web scraping BeautifulSoup, versão 4, em Python, seguindo as regras de classificação UniMarc.
