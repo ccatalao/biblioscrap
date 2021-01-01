@@ -1,5 +1,5 @@
 # biblioscrap
-## Aplicação de Web Scraping
+## Aplicação de web scraping para captura de dados bibliográficos
 
 Web scraping catálogo bibliografico XML/UniMarc:
 
